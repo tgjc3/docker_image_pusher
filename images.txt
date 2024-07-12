@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 janeczku/calibre-web:latest
+ctiself/caliber-web:latest
